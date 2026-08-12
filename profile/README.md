@@ -1,10 +1,10 @@
 # NovleBot
 
-### Desarrollo web y analítica de datos a medida
+### Desarrollo, Soluciones y Analitica.
 
 En **NovleBot** diseñamos y desarrollamos soluciones digitales adaptadas a las necesidades reales de cada negocio.
 
-Creamos **sitios web, dashboards y soluciones de analítica de datos** con tecnología moderna, código limpio y una arquitectura pensada para crecer.
+Creamos **sitios web, dashboards, soluciones y analítica de datos** con tecnología moderna, código limpio y una arquitectura pensada para crecer.
 
 [**Visita novlebot.com →**](https://www.novlebot.com)
 
@@ -92,7 +92,7 @@ Trabajamos con herramientas y tecnologías modernas para construir soluciones es
 
 > **Tecnología que resuelve problemas reales.**
 
-Creemos que una buena solución digital no consiste únicamente en tener una interfaz atractiva.
+Creemos soluciones digitales no consiste únicamente en tener una interfaz atractiva.
 
 Debe ser **rápida, mantenible, escalable y útil para el negocio**.
 
@@ -102,24 +102,15 @@ Por eso trabajamos directamente con nuestros clientes para entender sus necesida
 
 ## Proyectos
 
-Algunos de nuestros proyectos y soluciones:
+Nuestros proyectos y soluciones:
 
 * **NovleBot** — Plataforma y soluciones digitales propias.
-* **Alma Bohemia** — Desarrollo de sitio web para comercio electrónico.
 * **La Colmena Sabaneta** — Desarrollo de sitio web para servicios de cerrajería.
 
 Puedes conocer más proyectos en:
 
 [**novlebot.com →**](https://www.novlebot.com)
 
----
-
-## Contacto
-
-¿Tienes un proyecto o una idea que quieras convertir en realidad?
-
-**Web:** [novlebot.com](https://www.novlebot.com)
-**Email:** [novleebot@gmail.com](mailto:novleebot@gmail.com)
 
 ---
 
